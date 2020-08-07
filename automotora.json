@@ -1,0 +1,30 @@
+[
+    {
+        "marca":"Fiat",
+        "color":"Rojo",
+        "matricula":"FKM667",
+        "modelo":"600",
+        "km":"0"
+    },
+    {
+        "marca":"Toyota",
+        "color":"Negro",
+        "matricula":"FKM777",
+        "modelo":"Corolla",
+        "km":"0"
+    },
+    {
+        "marca":"Honda",
+        "color":"Gris",
+        "matricula":"JML551",
+        "modelo":"Civic",
+        "km":"0"
+    },
+    {
+        "marca":"Lamborghini",
+        "color":"Verde",
+        "matricula":"ASD123",
+        "modelo":"Diablo",
+        "km":"0"
+    }
+]
